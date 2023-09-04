@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# harlem-trotterverse
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Trello
 
-## Available Scripts
+https://trello.com/b/TExi3qMy/harlem-globe-trotters
 
-In the project directory, you can run:
+## Render
 
-### `npm start`
+https://harlem-trotterverse.onrender.com/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Netlify
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+https://main--cheery-begonia-50b6c0.netlify.app/
 
-### `npm test`
+# GlobeTrotter Builder
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Welcome to **GlobeTrotter Builder**, an immersive app that invites you to dive into the captivating world of the Harlem Globetrotters. Create your own unique Globetrotter player and experience the excitement of being part of this legendary basketball team.
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 1. Harlem Globetrotters' Current Roster
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Explore the current active players of the Harlem Globetrotters. Learn about each player's skills, strengths, and playing styles as they carry on the Globetrotter legacy.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 2. Create Your Own Trotter
 
-### `npm run eject`
+Design your custom Harlem Globetrotter. Personalize appearance, choose a nickname, and select special skills to embody the Globetrotter spirit.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 3. Name Generator
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Find the perfect moniker for your Globetrotter character using the Name Generator. Discover catchy and unique names to match your player's persona.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 4. Special Skills Selection
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Choose from a range of spectacular skills for your Globetrotter's signature move. Showcase style and charisma on the court.
 
-## Learn More
+### 5. Globetrotter Showcase
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Watch your Globetrotter come to life in the Showcase. Witness their signature moves and basketball wizardry in action.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 6. Share Your Trotter
 
-### Code Splitting
+Share your custom Globetrotter creation on social media. Let others marvel at your incredible Globetrotter player.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Getting Started
 
-### Analyzing the Bundle Size
+1. Explore the Harlem Globetrotters' current roster to learn about the team's players and skills.
+2. Click "Create Your Trotter" to design your custom Globetrotter. Personalize appearance, select a name, and choose special skills.
+3. Watch your Globetrotter perform in the Showcase, showcasing their signature moves.
+4. Share your Harlem Globetrotter creation with friends and family on social media.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Join the Globetrotter Family Today!
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Step into the shoes of a Harlem Globetrotter and build your basketball legend. Customize your player, showcase their skills, and let the world witness your Globetrotter magic. Create your Globetrotter legend with GlobeTrotter Builder!
