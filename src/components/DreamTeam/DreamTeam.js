@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { getAllTrottersAPI, getSingleTrotterAPI } from "../API/API";
-import { useNavigate, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { getImagesForActivePlayers } from "../data/Images";
 
 function DreamTeam() {
   let { id } = useParams();
-  let navigate = useNavigate();
+  // let navigate = useNavigate();
 
   const [userData, setUserData] = useState({});
   const [arrayOfActivePlayers, setArrayOfActivePlayers] = useState([]);
